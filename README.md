@@ -1,1 +1,1 @@
-# CHEW-LOONG-NIAN
+Proficient in machine learning and deep learning, with a focus on utilizing advanced techniques in OpenCV, TensorFlow, and essential libraries like  Pandas and Scikit-Learn. Skilled in developing robust models, conducting indepth statistical analysis, and interpreting data using pattern recognition. Expertise lies in proposing innovative solutions through exploratory data analysis, particularly with big data and high-dimensional datasets. Excel at identifying trends and insights from data that drive business growth
